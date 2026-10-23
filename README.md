@@ -1,6 +1,6 @@
 # Dexys Works
 
-The Dexys Works product-family website, published with GitHub Pages.
+The Dexys Works product-family website, published with GitHub Pages at https://dexysworks.com/.
 
 Featured products: Dexys AI, Dexys Code Index, and Dexys Code Factory.
 
